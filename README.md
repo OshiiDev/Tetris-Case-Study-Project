@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/9a4eb06f-0a17-40fd-8f1c-58ffb63d4dd6)
+
 This is a simple Tetris game built using JavaScript, HTML, and CSS. The code for this project is inspired by a tutorial from Servet Gulnaroglu, which I followed to learn more about coding and game development. The goal of this project was to practice and implement the concepts from the tutorial while adding a few personal touches to make it my own.
 
 Table of Contents
